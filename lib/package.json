@@ -1,0 +1,14 @@
+{
+  "name": "sun-vue3-elementplus",
+  "version": "1.0.0",
+  "main": "index.umd.cjs",
+  "module": "index.es.js",
+  "types": "index.d.ts",
+  "author": {
+    "name": "sunyuchen"
+  },
+  "keywords": [
+    "ts",
+    "element-plus"
+  ]
+}
